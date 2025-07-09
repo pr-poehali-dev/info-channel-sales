@@ -181,7 +181,7 @@ const Index = () => {
                   <CardTitle className="text-2xl font-mono text-retro-navy">
                     {plan.name}
                   </CardTitle>
-                  <div className="text-4xl font-bold text-retro-orange mb-2">
+                  <div className="text-4xl font-bold text-retro-orange mb-2 mx-0 bg-rose-300">
                     {plan.price}
                   </div>
                   <CardDescription>за канал</CardDescription>
